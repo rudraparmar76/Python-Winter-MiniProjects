@@ -36,4 +36,4 @@ Welcome to my Python Mini Projects Collection! This repository contains a variet
 If you have ideas for improvements, bug fixes, or new projects, feel free to contribute! Fork the repository, make your changes, and submit a pull request.
 
 ## License 📝
-This project is licensed under the MIT License, so feel free to use, modify, and distribute the code.
+This project is licensed under the [MIT License](LICENSE) so feel free to use, modify, and distribute the code.
