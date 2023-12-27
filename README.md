@@ -28,7 +28,7 @@ Welcome to my Python Mini Projects Collection! This repository contains a variet
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rudra76/Python-Winter-MiniProjects.git
+   git clone https://github.com/rudraparmar76/Python-Winter-MiniProjects.git
 2. Run main.py from the specific folder you want to explore
 3. Have Fun !!!!
 
