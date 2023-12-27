@@ -1,6 +1,6 @@
 # 🚀 Python Mini Projects Collection
 
-Welcome to my Python Mini Projects Collection! This repository contains a variety of small but interesting Python projects that I worked on during my summer/winter vacation. Each project serves a different purpose, from image resizing to gaming.
+Welcome to my Python Mini Projects Collection! This repository contains a variety of small but interesting Python projects that I worked on during my winter vacation. Each project serves a different purpose, from image resizing to gaming.
 
 ## Project List
 
